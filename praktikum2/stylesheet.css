@@ -1,0 +1,8 @@
+body {font-family: Arial,sans-serif; background: white;}
+.wadah {width: 340px;margin:40px auto; padding:24px; background: #fff; border-radius: 10px;}
+label {display:block; margin-top: 12px;}
+input {width: 100%; padding: 8px; box-sizing: border-box;}
+button {margin-top: 16px; width: 100%; padding: 10px; background: #2563eb; color: #fff; border: none;border-radius: 6px; cursor: pointer;}
+#hasil {margin-top: 16px; font-weight: bold;}
+.lulus {color: #15803d;}
+.gagal {color: red}
